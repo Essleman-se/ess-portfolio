@@ -10,12 +10,13 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-    "engines": {
+  "engines": {
     "node": "22.x",
     "npm": "11.x"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
+    "lucide-react": "^0.548.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "serve": "^14.2.5",
